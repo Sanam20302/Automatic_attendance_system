@@ -30,7 +30,7 @@ Usage
 3. The system will automatically detect and recognize faces, marking attendance accordingly.
 4. The attendance sheet can be downloaded as excel or CSV file.
 
-##Project Group Members
+Project Group Members
 
 - Sanam M S
 - Melwin T Joshy
